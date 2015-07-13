@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <addon id="repo.cavplusgit" name="Repo CAVPLUS GITHUB" version="1.0.0" provider-name="Clayton">
+    <extension point="xbmc.addon.repository" name="Repo CAV PLUS GITHUB">
+    <info>https://github.com/claytonhd/cav/addons.xml</info>
+    <checksum>https://github.com/claytonhd/cav/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/claytonhd/cav/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Claymic repo, by Clayton.</summary>
+    <summary lang="pt">Repo Claymic, por Clayton.</summary>
+		<description lang="en">With this repository you keep the add-ons always updated.</description>
+		<description lang="pt">Com este repositório você mantém os addons sempre atualizados.</description>
+		<disclaimer lang="en">This repository is a complement for skins.</disclaimer>
+		<disclaimer lang="pt">Este repositório é um complemento para skins.</disclaimer>
+		<platform>all</platform>
+    </extension>
+  </addon>

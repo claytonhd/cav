@@ -1,0 +1,13 @@
+05/10/2013
+Adicionado - Troca de Perfil
+25/05/213
+Vários novos comandos inseridos.
+23/05/2013
+- Inserida a possibilidade de se inserir todos os episódios não assistidos de uma série pelo ID da mesma. Útil somente a quem usa o CommandFusion ou similar.
+  Pode-se também inserir todos os episódios ou somente os episódios de uma determinada temporada.
+22/05/2013
+- fixo erro que não fechava a plot depois da teclada backspace ter sido apertada.
+22/05/213
+-teste do repositório
+  
+

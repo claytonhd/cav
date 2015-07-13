@@ -37,7 +37,7 @@
   </addon>
   <addon id="plugin.video.inmylibrary"
        name="IN MY LIBRARY"
-       version="0.2.4" 
+       version="0.2.5" 
        provider-name="CLAYTON">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>	
